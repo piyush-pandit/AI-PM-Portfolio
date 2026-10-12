@@ -1,0 +1,17 @@
+.DS_Store
+**/.DS_Store
+
+# Keep raw course and workshop materials local; publish curated portfolio work instead.
+/C*/
+/A Mini Project/
+/Sunday Workshop/
+
+# User-level analytics and candidate-assignment data are not portfolio artifacts.
+/C14- Mixpanel Mastery for Funnel & Data Analysis/Groww User Data.xlsx
+/C14- Mixpanel Mastery for Funnel & Data Analysis/groww_mixpanel_events.csv
+/C14- Mixpanel Mastery for Funnel & Data Analysis/Titan_Web_PM_Candidate_Assignment.xlsx
+
+# Imported reference material and uncurated practice submission.
+/A Personal Projects/knowledge based/
+/A Personal Projects/Piyush_s Practise Assingment - AI Product Landing Page.pdf
+/A Personal Projects/Automatic parking management (APM)/*.docx
